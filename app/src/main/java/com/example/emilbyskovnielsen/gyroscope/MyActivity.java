@@ -73,6 +73,7 @@ public class MyActivity extends Activity
 
     //Fuckstains check out my man meat
     //push it real good
+    //master of the universe
 
     public void updateOrientationDisplay() {
 
