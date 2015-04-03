@@ -71,6 +71,8 @@ public class MyActivity extends Activity
         mp = MediaPlayer.create(MyActivity.this, R.raw.carefree);
     }
 
+    //Fuckstains check out my man meat
+
     public void updateOrientationDisplay() {
 
         double azimuthValue = sensorFusion.getAzimuth();
